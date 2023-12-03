@@ -1,4 +1,4 @@
-purnet = {"add":"fr1.c8898496-adb6-4073-9ee4-ff4e4984415b.polycdn.com",
+[purnet = {"add":"fr1.c8898496-adb6-4073-9ee4-ff4e4984415b.polycdn.com",
 "aid":"0",
 "alpn":"",
 "fp":"",
@@ -12,4 +12,4 @@ purnet = {"add":"fr1.c8898496-adb6-4073-9ee4-ff4e4984415b.polycdn.com",
 "sni":"",
 "tls":"",
 "type":"",
-"v":"2"};
+"v":"2"};]
