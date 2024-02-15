@@ -57,7 +57,7 @@
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "d8987565-6691-1ee4-9ba4-75efc5af5ea2",
+                "id": "63e569b7-c3ea-8909-ad0e-66bdddd88700",
                 "level": 8,
                 "security": "auto"
               }
@@ -70,7 +70,12 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "fingerprint": "",
+          "alpn": [
+            "h3",
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "chrome",
           "publicKey": "",
           "serverName": "ns28.u3ef.ir",
           "shortId": "",
