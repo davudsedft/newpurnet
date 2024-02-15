@@ -57,7 +57,7 @@
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "63e569b7-c3ea-8909-ad0e-66bdddd88700",
+                "id": "e1740caf-64b3-4390-8c07-c80cbaedd77d",
                 "level": 8,
                 "security": "auto"
               }
@@ -70,23 +70,18 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "alpn": [
-            "h3",
-            "h2",
-            "http/1.1"
-          ],
-          "fingerprint": "chrome",
+          "fingerprint": "",
           "publicKey": "",
-          "serverName": "ns28.u3ef.ir",
+          "serverName": "newjet.u3ef.ir",
           "shortId": "",
           "show": false,
           "spiderX": ""
         },
         "wsSettings": {
           "headers": {
-            "Host": "ns28.u3ef.ir"
+            "Host": "newjet.u3ef.ir"
           },
-          "path": "/qlahws"
+          "path": "/cxpsws"
         }
       },
       "tag": "proxy"
