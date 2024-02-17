@@ -47,7 +47,7 @@
         "xudpConcurrency": 8,
         "xudpProxyUDP443": ""
       },
-      "protocol": "vless",
+      "protocol": "vmess",
       "settings": {
         "vnext": [
           {
@@ -55,9 +55,10 @@
             "port": 2015,
             "users": [
               {
-                "encryption": "none",
+                "alterId": 0,
+                "encryption": "",
                 "flow": "",
-                "id": "e1740caf-64b3-4390-8c07-c80cbaedd77d",
+                "id": "7803f866-fccb-48a2-96e3-82e308e6d6e2",
                 "level": 8,
                 "security": "auto"
               }
@@ -72,16 +73,16 @@
           "allowInsecure": false,
           "fingerprint": "",
           "publicKey": "",
-          "serverName": "newjet.u3ef.ir",
+          "serverName": "newiranmathchessmatch.u3ef.ir",
           "shortId": "",
           "show": false,
           "spiderX": ""
         },
         "wsSettings": {
           "headers": {
-            "Host": "newjet.u3ef.ir"
+            "Host": "newiranmathchessmatch.u3ef.ir"
           },
-          "path": "/cxpsws"
+          "path": "/laggvws"
         }
       },
       "tag": "proxy"
