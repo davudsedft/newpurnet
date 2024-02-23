@@ -47,18 +47,17 @@
         "xudpConcurrency": 8,
         "xudpProxyUDP443": ""
       },
-      "protocol": "vmess",
+      "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "127.0.0.11",
-            "port": 2015,
+            "address": "newjerci.u3ef.ir",
+            "port": 443,
             "users": [
               {
-                "alterId": 0,
-                "encryption": "",
+                "encryption": "none",
                 "flow": "",
-                "id": "7803f866-fccb-48a2-96e3-82e308e6d6e2",
+                "id": "5bb84434-ef51-41d6-b28c-474db5ec5a19",
                 "level": 8,
                 "security": "auto"
               }
@@ -71,18 +70,21 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "fingerprint": "",
+          "alpn": [
+            "h3"
+          ],
+          "fingerprint": "randomized",
           "publicKey": "",
-          "serverName": "newiranmathchessmatch.u3ef.ir",
+          "serverName": "newjerci.u3ef.ir",
           "shortId": "",
           "show": false,
           "spiderX": ""
         },
         "wsSettings": {
           "headers": {
-            "Host": "newiranmathchessmatch.u3ef.ir"
+            "Host": "newjerci.u3ef.ir"
           },
-          "path": "/laggvws"
+          "path": "/mzhows"
         }
       },
       "tag": "proxy"
