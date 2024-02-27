@@ -51,8 +51,8 @@
       "settings": {
         "vnext": [
           {
-            "address": "newjerci.u3ef.ir",
-            "port": 443,
+            "address": "127.0.0.10",
+            "port": 2012,
             "users": [
               {
                 "encryption": "none",
