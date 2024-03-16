@@ -57,7 +57,7 @@
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "5bb84434-ef51-41d6-b28c-474db5ec5a19",
+                "id": "72c0b870-6272-404a-ace7-2951d6135fa1",
                 "level": 8,
                 "security": "auto"
               }
@@ -71,9 +71,9 @@
         "tlsSettings": {
           "allowInsecure": false,
           "alpn": [
-            "h3"
+            "http/1.1"
           ],
-          "fingerprint": "randomized",
+          "fingerprint": "chrome",
           "publicKey": "",
           "serverName": "newjerci.u3ef.ir",
           "shortId": "",
