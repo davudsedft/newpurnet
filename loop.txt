@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "127.0.0.10",
+            "address": "127.0.0.1",
             "port": 2012,
             "users": [
               {
