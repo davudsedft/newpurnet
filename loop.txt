@@ -57,7 +57,7 @@
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "72c0b870-6272-404a-ace7-2951d6135fa1",
+                "id": "485b029b-3822-48ba-8146-3e17d30ca480",
                 "level": 8,
                 "security": "auto"
               }
@@ -104,6 +104,7 @@
       "tag": "block"
     }
   ],
+  "remarks": "vip1-VLESS_WS",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
