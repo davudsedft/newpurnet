@@ -57,7 +57,7 @@
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "485b029b-3822-48ba-8146-3e17d30ca480",
+                "id": "69262eaf-ceaa-4b86-8df6-c41af384eda5",
                 "level": 8,
                 "security": "auto"
               }
@@ -70,9 +70,6 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
           "fingerprint": "chrome",
           "publicKey": "",
           "serverName": "newjerci.u3ef.ir",
@@ -104,7 +101,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "vip1-VLESS_WS",
+  "remarks": "loop-VLESS_WS",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
