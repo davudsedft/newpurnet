@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
+https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
