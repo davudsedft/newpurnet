@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/davudsedft/V2RayAggregator/master/Eternity
+https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
