@@ -1,1 +1,1 @@
-https://786cd26d.purtuf.pages.dev/sub/a67297b9-b6ea-4f9c-b296-300d57d3f773#BPB-Normal
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt
