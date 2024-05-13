@@ -4,7 +4,18 @@
       "domain:googleapis.cn": "googleapis.com"
     },
     "servers": [
-      "1.1.1.1"
+      "1.1.1.1",
+      {
+        "address": "223.5.5.5",
+        "domains": [
+          "geosite:cn",
+          "geosite:geolocation-cn"
+        ],
+        "expectIPs": [
+          "geoip:cn"
+        ],
+        "port": 53
+      }
     ]
   },
   "inbounds": [
@@ -57,7 +68,7 @@
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "69262eaf-ceaa-4b86-8df6-c41af384eda5",
+                "id": "f2dc17f5-3113-4a40-8c51-55fe0e2c7f75",
                 "level": 8,
                 "security": "auto"
               }
@@ -70,18 +81,21 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "fingerprint": "chrome",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "randomized",
           "publicKey": "",
-          "serverName": "newjerci.u3ef.ir",
+          "serverName": "pUrcoWFAsT.PaGES.dev",
           "shortId": "",
           "show": false,
           "spiderX": ""
         },
         "wsSettings": {
           "headers": {
-            "Host": "newjerci.u3ef.ir"
+            "Host": "PUrcoWfast.pAgEs.deV"
           },
-          "path": "/mzhows"
+          "path": "/lAFFT76NmUnSTI5N?ed=2560"
         }
       },
       "tag": "proxy"
@@ -101,7 +115,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "loop-VLESS_WS",
+  "remarks": "💦 BPB - 104.16.1.33",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -110,8 +124,48 @@
           "1.1.1.1"
         ],
         "outboundTag": "proxy",
-        "port": "53",
-        "type": "field"
+        "port": "53"
+      },
+      {
+        "ip": [
+          "223.5.5.5"
+        ],
+        "outboundTag": "direct",
+        "port": "53"
+      },
+      {
+        "domain": [
+          "domain:googleapis.cn"
+        ],
+        "outboundTag": "proxy"
+      },
+      {
+        "ip": [
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:cn"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "domain": [
+          "geosite:cn"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "domain": [
+          "geosite:geolocation-cn"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "outboundTag": "proxy",
+        "port": "0-65535"
       }
     ]
   }
