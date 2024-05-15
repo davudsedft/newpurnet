@@ -4,18 +4,7 @@
       "domain:googleapis.cn": "googleapis.com"
     },
     "servers": [
-      "1.1.1.1",
-      {
-        "address": "223.5.5.5",
-        "domains": [
-          "geosite:cn",
-          "geosite:geolocation-cn"
-        ],
-        "expectIPs": [
-          "geoip:cn"
-        ],
-        "port": 53
-      }
+      "1.1.1.1"
     ]
   },
   "inbounds": [
@@ -53,10 +42,8 @@
   "outbounds": [
     {
       "mux": {
-        "concurrency": -1,
-        "enabled": false,
-        "xudpConcurrency": 8,
-        "xudpProxyUDP443": ""
+        "concurrency": 8,
+        "enabled": false
       },
       "protocol": "vless",
       "settings": {
@@ -68,7 +55,7 @@
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "f2dc17f5-3113-4a40-8c51-55fe0e2c7f75",
+                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
                 "level": 8,
                 "security": "auto"
               }
@@ -82,20 +69,21 @@
         "tlsSettings": {
           "allowInsecure": false,
           "alpn": [
+            "h2",
             "http/1.1"
           ],
           "fingerprint": "randomized",
           "publicKey": "",
-          "serverName": "pUrcoWFAsT.PaGES.dev",
+          "serverName": "bPb-wOrKeR-PaneLT.PAGEs.DeV",
           "shortId": "",
           "show": false,
           "spiderX": ""
         },
         "wsSettings": {
           "headers": {
-            "Host": "PUrcoWfast.pAgEs.deV"
+            "Host": "bPb-WoRkEr-panELt.paGES.dEV"
           },
-          "path": "/lAFFT76NmUnSTI5N?ed=2560"
+          "path": "/0nCyJNpqTPzLRg3z?ed=2560"
         }
       },
       "tag": "proxy"
@@ -115,7 +103,6 @@
       "tag": "block"
     }
   ],
-  "remarks": "💦 BPB - 104.16.1.33",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -124,48 +111,8 @@
           "1.1.1.1"
         ],
         "outboundTag": "proxy",
-        "port": "53"
-      },
-      {
-        "ip": [
-          "223.5.5.5"
-        ],
-        "outboundTag": "direct",
-        "port": "53"
-      },
-      {
-        "domain": [
-          "domain:googleapis.cn"
-        ],
-        "outboundTag": "proxy"
-      },
-      {
-        "ip": [
-          "geoip:private"
-        ],
-        "outboundTag": "direct"
-      },
-      {
-        "ip": [
-          "geoip:cn"
-        ],
-        "outboundTag": "direct"
-      },
-      {
-        "domain": [
-          "geosite:cn"
-        ],
-        "outboundTag": "direct"
-      },
-      {
-        "domain": [
-          "geosite:geolocation-cn"
-        ],
-        "outboundTag": "direct"
-      },
-      {
-        "outboundTag": "proxy",
-        "port": "0-65535"
+        "port": "53",
+        "type": "field"
       }
     ]
   }
