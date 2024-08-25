@@ -1,1 +1,1 @@
-https://media.giphy.com/media/1BXuqbMrAnHf5RZAMN/giphy.gif
+vless://7754143b-a72f-4708-9fdd-165f814e47f6@[2a01:4f9:c011:258d::1]:25574?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=mylovew.ssollop.co.purweb.ir#kji-1s9zgl7a
