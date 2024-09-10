@@ -1,2 +1,1 @@
-
-vless://telegram-id-ArV2ray@www.parsvds.ir:2095?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=2095&security=none&encryption=none&host=10.www.speedtest.net.xn--ihqvlaa157dbvcba104cs6p80gfvt8npc35ad25a.Site.&type=ws#🇺🇸US | 🔴 | vless | @ARv2ray | 4
+vless://b2dfe9c1-8073-4198-bb0d-3ac31eb25219@104.22.78.5:443?path=%2FqvFbT2R3lqsan0y8%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PuRKOw.PaGes.dEV&fp=randomized&type=ws&sni=PURkOw.PAGES.dEv#sssp
