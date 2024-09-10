@@ -1,2 +1,3 @@
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#hmrahhh
 vless://f2dc17f5-3113-4a40-8c51-55fe0e2c7f75@104.25.182.54:443?path=%2F4ztBxup4VkbcJFlQ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PUrcOWFAst.pAGeS.dEv&fp=randomized&type=ws&sni=purCOwfaSt.PAgES.DEv#hamrah
+vless://f2dc17f5-3113-4a40-8c51-55fe0e2c7f75@172.66.47.130:443?path=%2FFx0HGEQoIGNfepdP%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PUrCOwFASt.PAges.DeV&fp=randomized&type=ws&sni=pUrCOWFaSt.PAgeS.DEv#purnet4
+vless://f2dc17f5-3113-4a40-8c51-55fe0e2c7f75@[2606:4700:310c::ac42:2f82]:443?path=%2FxaVztW8wtvvX6IgS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PURcOwFAsT.PaGES.dEv&fp=randomized&type=ws&sni=PurcOWfASt.pAGEs.dev#purnet5
