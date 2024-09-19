@@ -1,1 +1,1 @@
-
+vless://41f1b5ad-eae4-4703-bea5-f5c23fee3e17@myvforiranian.iranpurnet.ir:8443?path=%2F&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=myvforiranian.iranpurnet.ir&fp=chrome&type=ws&sni=myvforiranian.iranpurnet.ir#da-tiugaqmy
