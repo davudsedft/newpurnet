@@ -1,4 +1,11 @@
 trojan://bpb-trojan@purcowfast.pages.dev:4432?path=%2Ftr5C4yqHKHp9Oc9b89%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=purcowfast.pages.dev&fp=randomized&type=ws&sni=pURCOWFast.PaGES.dEv#jjjj
+trojan://bpb-trojan@www.speedtest.net:443?path=%2Ftrm7wKfbolNKUsJzkc%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=purcowfast.pages.dev&fp=randomized&type=ws&sni=PURCoWfasT.pAGES.DEV#hyj
+trojan://bpb-trojan@172.66.47.130:443?path=%2FtrzUEGmy5Dt7xXQgpj%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=purcowfast.pages.dev&fp=randomized&type=ws&sni=pUrcowFast.paGEs.Dev#huj
+trojan://bpb-trojan@172.66.44.126:443?path=%2FtrInveIt0Wi0aURFkc%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=purcowfast.pages.dev&fp=randomized&type=ws&sni=PURcOWfast.pAges.dEV#hhbh
+trojan://bpb-trojan@[2606:4700:310c::ac42:2c7e]:443?path=%2FtrnIb715BnO39kogtG%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=purcowfast.pages.dev&fp=randomized&type=ws&sni=purcoWFAsT.pAGes.DeV#bhhj
+trojan://bpb-trojan@[2606:4700:310c::ac42:2f82]:443?path=%2FtrbTfxCUjeraeMoC4V%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=purcowfast.pages.dev&fp=randomized&type=ws&sni=pURcowFAST.pAGEs.DEV#hhb
+trojan://bpb-trojan@104.16.82.13:443?path=%2FtrlN1a2qPEjtlQzsG6%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=purcowfast.pages.dev&fp=randomized&type=ws&sni=PUrCOWfast.pAgEs.dEV#jik
+
 vless://a4611cdf-b0c3-41cb-aa59-9f9febfef91e@samankar20.purweb.ir:443?path=%2Fkgubws&security=tls&encryption=none&alpn=http/1.1&host=samankar20.purweb.ir&fp=chrome&type=ws&sni=samankar20.purweb.ir#viop-VLESS_WS
 vless://635ffc16-45cc-4716-bdef-2486398240a3@iranshopnetwork.purtuf.ir:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=iranshopnetwork.purtuf.ir&fp=chrome&type=ws&sni=iranshopnetwork.purtuf.ir#nahidv4-vipnahid
 vmess://eyJhZGQiOiJzYW1hbmthcjIwLnB1cndlYi5pciIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJzYW1hbmthcjIwLnB1cndlYi5pciIsImlkIjoiYTQ2MTFjZGYtYjBjMy00MWNiLWFhNTktOWY5ZmViZmVmOTFlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2tndWJ2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJ2aW9wLVZNZXNzX1dTIiwic2N5IjoiYXV0byIsInNuaSI6InNhbWFua2FyMjAucHVyd2ViLmlyIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
