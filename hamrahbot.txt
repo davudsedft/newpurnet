@@ -1,6 +1,5 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.198-0544
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.188-0967
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-3.8.178.40-0738
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-3.8.178.40-0742
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.199-0751
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-0637
+vless://df434087-13a8-46c8-b03c-663b518c7451@lewis.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&host=fastpurnet.pages.dev&path=%2Ffastpurnet.pages.dev%2F%3Fed%3D2560&sni=fastpurnet.pages.dev&fp=randomized#fastpurnet.pages.dev%20purnet
+
+vless://df434087-13a8-46c8-b03c-663b518c7451@nikon.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&host=fastpurnet.pages.dev&path=%2Ffastpurnet.pages.dev%2F%3Fed%3D2560&sni=fastpurnet.pages.dev&fp=randomized#fastpurnet.pages.dev%20purnet
+
+vless://df434087-13a8-46c8-b03c-663b518c7451@otto.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&host=fastpurnet.pages.dev&path=%2Ffastpurnet.pages.dev%2F%3Fed%3D2560&sni=fastpurnet.pages.dev&fp=randomized#fastpurnet.pages.dev%20purnet
