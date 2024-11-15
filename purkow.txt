@@ -1,3 +1,4 @@
+https://4cbba020.fastpurnet3.pages.dev/c95a5a3a-5a4c-4ee5-b11a-96f72cf80661?base64
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@bpb-worker-panel-brh.pages.dev:2087?path=%2FQ790kbfuJ2YqL16H%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bpb-worker-panel-brh.pages.dev&fp=randomized&type=ws&sni=Bpb-WOrKer-PaneL-BrH.pAgES.deV#ttg
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2087?path=%2F0CmlcCTPOSn38xQA%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bpb-worker-panel-brh.pages.dev&fp=randomized&type=ws&sni=Bpb-WorkeR-PAneL-brH.paGes.DeV#gdf
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2096?path=%2Fz6VPhCYQgCmQG1bO%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bpb-worker-panel-brh.pages.dev&fp=randomized&type=ws&sni=BPb-WoRKER-pANel-brH.PAges.dEv#gdd
