@@ -1,5 +1,3 @@
-vless://df434087-13a8-46c8-b03c-663b518c7451@lewis.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&host=fastpurnet.pages.dev&path=%2Ffastpurnet.pages.dev%2F%3Fed%3D2560&sni=fastpurnet.pages.dev&fp=randomized#fastpurnet.pages.dev%20purnet
-
-vless://df434087-13a8-46c8-b03c-663b518c7451@nikon.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&host=fastpurnet.pages.dev&path=%2Ffastpurnet.pages.dev%2F%3Fed%3D2560&sni=fastpurnet.pages.dev&fp=randomized#fastpurnet.pages.dev%20purnet
-
-vless://df434087-13a8-46c8-b03c-663b518c7451@otto.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&host=fastpurnet.pages.dev&path=%2Ffastpurnet.pages.dev%2F%3Fed%3D2560&sni=fastpurnet.pages.dev&fp=randomized#fastpurnet.pages.dev%20purnet
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%F0%9F%87%A7%F0%9F%87%ADBH-157.241.50.80-0459
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%%A7GB-18.169.195.67-0449
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.1.108:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.26.1.108%3A443
